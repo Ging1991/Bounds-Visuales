@@ -1,4 +1,4 @@
-﻿using Ging1991.Interfaces.Contadores;
+﻿using Ging1991.Interfaces.Salida;
 using UnityEngine;
 
 namespace Bounds.Visuales {
